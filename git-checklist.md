@@ -12,4 +12,4 @@ Here's a checklist of some generic steps and git commands that I use:
 
 As an aside, `git status` is your friend. Use it often :wink:
 
-While this might seem like a lot now, it's very helpful to have a consistent workflow since it keeps you organized and saves time and reduces errors in the long run.
+While this might seem like a lot now, it's very helpful to have a consistent workflow since it keeps you organized and saves time and reduces errors in the long run.This is really a nice readme.md file
